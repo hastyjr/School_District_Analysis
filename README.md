@@ -27,17 +27,19 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
 
 * **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** 
 
-There is no doubt that the impact on overal passing percentage for Thomas High School was impacted. The difference can be seen down below in the images. After the Thomas High School's 9th grade data was complete, it proved to show a staggering difference of 
+There is no doubt that the impact on overal passing percentage for Thomas High School was impacted. The difference can be seen down below in the images. After the Thomas High School's 9th grade data was complete, it proved to show a staggering difference of:
     * `26.36%` in math passing scores. 
     * `27.64%` in reading passing scores.
     * `25.87%` in overall passing scores. 
 
     **school summary header**
-        ![school_summary_header](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/school_summary_header.png)
+![school_summary_header](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/school_summary_header.png)
+
     **pre data clean**
-        ![ths_pre_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_pre_clean.png)
+![ths_pre_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_pre_clean.png)
+    
     **post data clean**
-        ![ths_post_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_post_clean.png)
+![ths_post_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_post_clean.png)
 * **How replacing the ninth-grade scores affect the following:**
 
     * **Math and reading scores by grade**

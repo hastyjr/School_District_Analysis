@@ -27,7 +27,7 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
 
 * **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** 
 
-There is no doubt that the impact on overal passing percentage for Thomas High School was impacted. The difference can be seen down below in the images. After the Thomas High School's 9th grade data was complete, it proved to show a staggering difference of:
+    There is no doubt that the impact on overal passing percentage for Thomas High School was impacted. The difference can be seen down below in the images. After the Thomas High School's 9th grade data was complete, it proved to show a staggering difference of:
     * `26.36%` in math passing scores. 
     * `27.64%` in reading passing scores.
     * `25.87%` in overall passing scores. 

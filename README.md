@@ -18,9 +18,9 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
 
     This is a before and after of the district summary:
     
-    ![before-data-clean](https://myoctocat.com/assets/images/base-octocat.svg)
+    ![before-data-clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/pre-clean-district.png)
 
-    ![after-data-clean](https://myoctocat.com/assets/images/base-octocat.svg)
+    ![after-data-clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/post-clean-district.png)
 
 
 * How is the school summary affected?

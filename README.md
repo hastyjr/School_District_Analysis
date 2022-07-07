@@ -6,7 +6,7 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
 
 ## Results
 
-* How is the district summary affected?
+* **How is the district summary affected?**
 
     The district summary of student data was affected as one of the schools had grades altered for their ninth grade class. The data was altered in a way that skewed the overall data for all schools in the district. You will see the difference between the overall passing scores in comparison to each other is a difference of `0.316608%`
 
@@ -23,19 +23,27 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
     ![after-data-clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/post-clean-district.png)
 
 
-* How is the school summary affected?
+* **How is the school summary affected?**
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+* **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?** 
 
-* How does replacing the ninth-grade scores affect the following:
+There is no doubt that the impact on overal passing percentage for Thomas High School was impacted. The difference can be seen down below in the images. After the Thomas High School's 9th grade data was complete, it proved to show a staggering difference of 
+* `xx&` in math assing scores. 
+* `xx&` in reading assing scores.
+* `xx&` in overall assing scores. 
 
-    * Math and reading scores by grade
+![school_summary_header](link)
+![name](link)
+![name](link)
+* **How replacing the ninth-grade scores affect the following:**
 
-    * Scores by school spending
+    * **Math and reading scores by grade**
 
-    * Scores by school size
+    * **Scores by school spending**
 
-    * Scores by school type
+    * **Scores by school size**
+
+    * **Scores by school type**
 
 * 
 

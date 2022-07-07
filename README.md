@@ -32,9 +32,9 @@ There is no doubt that the impact on overal passing percentage for Thomas High S
 * `xx&` in reading assing scores.
 * `xx&` in overall assing scores. 
 
-![school_summary_header](link)
-![name](link)
-![name](link)
+![school_summary_header](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/school_summary_header.png)
+![ths_pre_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_pre_clean.png)
+![ths_post_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_post_clean.png)
 * **How replacing the ninth-grade scores affect the following:**
 
     * **Math and reading scores by grade**

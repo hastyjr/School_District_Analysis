@@ -15,7 +15,7 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
     Before we were able to get to this difference in percentage, we had to select all reading and math scores from Thomas High School and replace those scores with `NaN` so that they would not factore into the new percentage. 
 
     `
-    ![name_of_pic](link)
+    ![nan-replacement](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/NaN-replacement.png)
 
 
 

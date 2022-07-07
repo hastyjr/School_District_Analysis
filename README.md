@@ -43,13 +43,13 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
 * **How replacing the ninth-grade scores affect the following:**
 
     * **Math and reading scores by grade**
-        ![name](link)
+        ![Math and reading scores by grade](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/math_reading_scores_by_grade.png)
     * **Scores by school spending**
-        ![name](link)
+        ![Scores by school spending](lihttps://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/score_by_school_spending.png)
     * **Scores by school size**
-        ![name](link)
+        ![Scores by school size](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/scores_by_school_size.png)
     * **Scores by school type**
-        ![name](link)
+        ![Scores by school type](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/scores_by_school_type.png)
 
 fsdfsd
 ## Summary

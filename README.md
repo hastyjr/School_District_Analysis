@@ -45,7 +45,7 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
     * **Math and reading scores by grade**
         ![Math and reading scores by grade](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/math_reading_scores_by_grade.png)
     * **Scores by school spending**
-        ![Scores by school spending](lihttps://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/score_by_school_spending.png)
+        ![Scores by school spending](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/score_by_school_spending.png)
     * **Scores by school size**
         ![Scores by school size](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/scores_by_school_size.png)
     * **Scores by school type**

@@ -2,8 +2,9 @@
 
 ## Overview of the School District Analysis
 
-The purpose of this analysis is correct evidence of academic dishonesty discovered by the school board. The targeted data analyzed is specifically around math and reading for all 9th graders at `Thomas High School`, as it appears those grades have been altered. The objective in the below analysis is to replace the 9th grade reading and math scores, then repeat the district analysis to show a true measure of passing grades through out the district. 
+    The purpose of this analysis is correct evidence of academic dishonesty discovered by the school board. The targeted data analyzed is specifically around math and reading for all 9th graders at `Thomas High School`, as it appears those grades have been altered. The objective in the below analysis is to replace the 9th grade reading and math scores, then repeat the district analysis to show a true measure of passing grades through out the district. 
 
+---
 ## Results
 
 * **How is the district summary affected?**
@@ -40,18 +41,29 @@ The purpose of this analysis is correct evidence of academic dishonesty discover
     
     **post data clean**
 ![ths_post_clean](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/ths_post_clean.png)
+
 * **How replacing the ninth-grade scores affect the following:**
 
     * **Math and reading scores by grade**
+        You will see that in its finality, math and reading scores by grade didn't change for any of the other high schools in the district as their data was untouched. You will noticed that Thomas High School schools are not factored into the scoring here for either subject as their data had been retracted and replaced with `Nan` or `nan`.
         ![Math and reading scores by grade](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/math_reading_scores_by_grade.png)
+    
     * **Scores by school spending**
+        One very interesting fact revealed with the scores by school spending is that the lower the spending range per student, the higher the average, percentage passing and overall passing grades were. And on the contrary, the higher the spending range per student, the lower the scores across the board. 
+
+        This is basically saying, that spending less on students is a true testament to having higher scores aross both math and reading. 
         ![Scores by school spending](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/score_by_school_spending.png)
+
     * **Scores by school size**
+        The below table shows that the soft spot for best grades across the board are medium schools sizes from 1000-1999. While small schools als have high scores, in this case it was off by 1% in comparison. Large schools on the other hand suffered in terms of passing scores. 
+
         ![Scores by school size](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/scores_by_school_size.png)
+
     * **Scores by school type**
+        The schools were also measured by school type, where there were two types of either `Charter` or `District`. The table below shows a clear differentiation of the two. Charter schools had an impressing overall passing percentage in comparison to the District school by `37%`!
         ![Scores by school type](https://github.com/hastyjr/School_District_Analysis/blob/main/Resources/images/scores_by_school_type.png)
 
-fsdfsd
+---
 ## Summary
 Write a statement statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
 

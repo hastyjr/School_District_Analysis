@@ -65,5 +65,10 @@
 
 ---
 ## Summary
-Write a statement statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
 
+    In Summary the data I started with and the data I ended with were a clear differntiation between how the district could have been impacted if they would not have addressed the altered data for Thomas High School 9th graders. 
+    
+    While the post-cleaning of data analysis didn't make much of an overall dent in the district summary data, there was a clear difference when comparing Thomas High School's performance around passing scores. A 25.87% difference at that. 
+
+    The rest of the data also provided general insights around the rest of the schools in terms of spending, school type and school size. Extracting this information will be a great way for the board to forward plan and look at how they can optimize their strategic plans to get larger schools better scores and look at possibly cost cutting in schools that high spending averages per student but low passing scores. The data proves that it does not take a lot of money per student for them to be successful.
+    
